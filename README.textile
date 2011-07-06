@@ -1,0 +1,4 @@
+h1. An application demoing usage of Lift with MongoDB Backend
+
+Contains configuration for CloudFoundry
+
